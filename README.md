@@ -77,24 +77,53 @@ This project investigates the impact of COVID-19 lockdown measures on air qualit
 - SDI data: Harvard Dataverse
 - Energy demand data: ISO New England website
 
-## Methodology
-
-- Data analysis performed using Python
-- Correlation analysis (Pearson, Spearman, and Kendall Tau) conducted for various relationships
-- Time series analysis and visualizations created to identify patterns and trends
-- Geospatial analysis and mapping of AQI data across Massachusetts counties
-
 ## Requirements
 
-- Python 3.x
-- Jupyter Notebook
-- Libraries: pandas, matplotlib, seaborn, numpy, scipy, geopandas, imageio, cv2
+To run this project, you need Python 3.x and the following libraries:
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+geopandas
+imageio
+opencv-python
+jupyter
+ipython
+scikit-learn
+requests
+flask
+flask-cors
+
+
+You can install these dependencies using the provided `requirements.txt` file:
+
+
 
 ## Setup and Running
 
-1. Clone this repository.
-2. Install the required libraries: `pip install -r requirements.txt`
-3. Open the Jupyter notebooks to view the analysis.
+1. Clone this repository:
+   ```
+   git clone https://github.com/RaghuRamSatt/Exploring-the-Environmental-Impact--Can-staying-at-home-enhance-Air-Quality.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd Exploring-the-Environmental-Impact--Can-staying-at-home-enhance-Air-Quality
+   ```
+3. Install the required libraries:
+   ```
+   pip install -r requirements.txt
+   ```
+4. Launch Jupyter Notebook:
+   ```
+   jupyter notebook
+   ```
+5. Open the desired notebook file (.ipynb) and run the cells to view the analysis.
+
+## Contributing
+
+Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
 ## License
 

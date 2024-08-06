@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+geopandas
+imageio
+opencv-python
+jupyter
+ipython
+scikit-learn
+requests
+flask
+flask-cors
