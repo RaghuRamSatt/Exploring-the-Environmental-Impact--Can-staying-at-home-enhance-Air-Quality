@@ -104,4 +104,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Raghu Ram Sattanapalle
 
-Project Link: [https://github.com/Raghu-Sattanapalle/Exploring-the-Environmental-Impact--Can-staying-at-home-enhance-Air-Quality](https://github.com/Raghu-Sattanapalle/Exploring-the-Environmental-Impact--Can-staying-at-home-enhance-Air-Quality)
+Project Link: [https://github.com/RaghuRamSatt/Exploring-the-Environmental-Impact--Can-staying-at-home-enhance-Air-Quality](https://github.com/RaghuRamSatt/Exploring-the-Environmental-Impact--Can-staying-at-home-enhance-Air-Quality)
