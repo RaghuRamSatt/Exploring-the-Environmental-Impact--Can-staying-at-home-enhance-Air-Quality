@@ -73,16 +73,20 @@ This project investigates the impact of COVID-19 lockdown measures on air qualit
 ## Data Sources
 
 - COVID-19 data: Massachusetts government and USAFacts websites 
-  -- https://www.mass.gov/info-details/covid-19-reporting
-  -- https://www.mass.gov/info-details/archive-of-covid-19-cases-in-massachusetts
-  -- https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/state/massachusetts/
+  - https://www.mass.gov/info-details/covid-19-reporting
+  - https://www.mass.gov/info-details/archive-of-covid-19-cases-in-massachusetts
+  - https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/state/massachusetts/
+  
 - AQI data: Environmental Protection Agency (EPA) Air Data - Multiyear Tile Plot tool
-  -- https://www.epa.gov/air-trends/air-data-multiyear-tile-plot-tool
+  - https://www.epa.gov/air-trends/air-data-multiyear-tile-plot-tool
+  
 - SDI data: Harvard Dataverse
-  -- https://www.nature.com/articles/s41598-020-77751-2#Sec7 (Please the see the paper for the data source details and how to access the data from the link below)
-  -- https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZAKKCE
+  - https://www.nature.com/articles/s41598-020-77751-2#Sec7 (Please the see the paper for the data source details and how to access the data from the link below)
+  - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZAKKCE
+    
+  
 - Energy demand data: ISO New England website
-  -- https://www.iso-ne.com/markets-and-operations/energy-data/load-and-demand/load-and-demand-data
+  - https://www.iso-ne.com/markets-and-operations/energy-data/load-and-demand/load-and-demand-data
 ## Requirements
 
 To run this project, you need Python 3.x and the following libraries:
