@@ -34,6 +34,8 @@ This project investigates the impact of COVID-19 lockdown measures on air qualit
 
 ## Key Findings
 
+![Project Poster](Poster.png)
+
 ### AQI and COVID-19 Cases
 - Weak correlation (0.007) between AQI values and COVID-19 cases
 - No significant improvement in air quality directly linked to COVID-19 cases
